@@ -93,11 +93,9 @@ We leverage **state-of-the-art deep learning architectures** — **ConvNeXt Larg
 ---
 
 ## 📊 Results  
-- **ConvNeXt Large:** High single-model accuracy (~XX%, replace with your logs).  
-- **SwinV2 Large:** Comparable single-model accuracy (~XX%).  
+- **ConvNeXt Large:** High single-model accuracy (98.22% at stage 1).  
+- **SwinV2 Large:** Comparable single-model accuracy (not run yet).  
 - **Ensemble + TTA:** Final accuracy = **XX%** (best performance).  
-
-*(Fill in actual accuracy after evaluation.)*  
 
 ---
 
